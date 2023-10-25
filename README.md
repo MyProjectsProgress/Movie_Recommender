@@ -12,8 +12,6 @@ This repository contains a movie recommender system built using machine learning
 
 - **Item-Based Collaborative Filtering:** It also employs item-based collaborative filtering to suggest movies that are similar to those a user has already rated or liked.
 
-- **Matrix Factorization:** The system utilizes matrix factorization techniques such as Singular Value Decomposition (SVD) and Alternating Least Squares (ALS) to learn latent factors that capture user and movie preferences.
-
 - **Content-Based Recommendations:** In addition to collaborative filtering, the system may incorporate content-based recommendations, considering movie attributes such as genre, director, and actors.
 
 ## Data
